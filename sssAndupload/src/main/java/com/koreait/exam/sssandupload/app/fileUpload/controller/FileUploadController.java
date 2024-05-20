@@ -1,4 +1,4 @@
-package com.koreait.sssandupload.app.fileUpload.controller;
+package com.koreait.exam.sssandupload.app.fileUpload.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.koreait.sssandupload.app.base;
+package com.koreait.exam.sssandupload.app.base;
 
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import org.springframework.context.annotation.Bean;

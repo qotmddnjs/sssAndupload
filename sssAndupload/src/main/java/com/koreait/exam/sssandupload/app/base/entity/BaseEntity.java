@@ -1,4 +1,4 @@
-package com.koreait.sssandupload.app.base.entity;
+package com.koreait.exam.sssandupload.app.base.entity;
 
 
 import lombok.Getter;

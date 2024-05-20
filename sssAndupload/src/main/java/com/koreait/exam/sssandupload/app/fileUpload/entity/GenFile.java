@@ -1,6 +1,6 @@
-package com.koreait.sssandupload.app.fileUpload.entity;
+package com.koreait.exam.sssandupload.app.fileUpload.entity;
 
-import com.koreait.sssandupload.app.base.entity.BaseEntity;
+import com.koreait.exam.sssandupload.app.base.entity.BaseEntity;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 

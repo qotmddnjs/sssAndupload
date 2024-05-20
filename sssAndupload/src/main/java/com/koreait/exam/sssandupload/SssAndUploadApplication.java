@@ -1,4 +1,4 @@
-package com.koreait.sssandupload;
+package com.koreait.exam.sssandupload;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
