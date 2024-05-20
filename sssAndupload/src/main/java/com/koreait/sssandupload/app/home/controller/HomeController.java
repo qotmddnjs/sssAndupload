@@ -1,4 +1,4 @@
-package com.koreait.exam.sssandupload.app.home.controller;
+package com.koreait.sssandupload.app.home.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
@@ -10,5 +10,10 @@ public class HomeController {
   @RequestMapping("/")
   public String main() {
     return "home/main";
+  }
+
+  @RequestMapping("/test/upload")
+  public String upload() {
+    return "home/test/upload";
   }
 }

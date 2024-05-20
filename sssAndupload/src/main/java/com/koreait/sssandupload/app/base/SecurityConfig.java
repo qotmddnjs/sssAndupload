@@ -1,4 +1,4 @@
-package com.koreait.exam.sssandupload.app.base;
+package com.koreait.sssandupload.app.base;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
